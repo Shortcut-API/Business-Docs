@@ -1,42 +1,37 @@
 # Business Documentation
 Documentation for Shortcut Business Accounts. Launch your Pros on the Shortcut platform.
 
-# **Business Setup**
+# **Technology for your Business**
 
 Through your Shortcut Business Account, you can register new Pros, manage their settings, and service your clients.
 
-To get started, view our [Business Platform Setup Guide](https://github.com/Shortcut-API/Concierge-API/wiki/Business-Platform-Setup-Guide) and the [Shortcut Business FAQ](https://github.com/Shortcut-API/Concierge-API/wiki/Shortcut-Business-FAQ).
+Use the Sandbox to test our system. Register new Pro accounts, 
 
 To get in touch with Shortcut, please reach out to support@getshortcut.co.
 
-### Apps
+### Apps Overview
 
-[pullConciergeServices](#pullConciergeServices)
+[Business Home](#businessHome)
 
-[pullConciergeServices](#pullConciergeServices)
+[Pros App](#prosApp)
 
-[pullConciergeServices](#pullConciergeServices)
-
-[pullConciergeServices](#pullConciergeServices)
+[Client App](#clientApp)
 
 ### Documentation
 
 ***
 
-#### pullConciergeServices
-View all available services. Some services are `addOnOnly`, which means that they cannot be ordered without ordering a non-`addOnOnly` service along with it.
+#### businessHome
+Register Pros. Set up your payment account through Stripe.
+Live: https://app.getshortcut.co
+Sandbox: https://dev-app.getshortcut.co
 
-Parameters:
-* _apiKey_ (string)
+#### prosApp
+This is the main app for your staff. Once you register their accounts, they can log in, submit an application / background check, and set their services, pricing and schedule. This app enables Pros to communicate with clients and manage their bookings.
+Live: https://pros.app.link
+Sandbox: (Email john@getshortcut.co for access)
 
-Returns: Array of Service objects.
-```
-Service:
-{
-  serviceID: string,
-  img: string, // URL of service image
-  title: string, // Title of service
-  description: string,
-  addOnOnly: boolean
-}
-```
+#### clientApp
+When your Pros activate after onboarding, their profiles will show in the main Shortcut app, accessible to clients across the country.
+Live: https://pros.app.link
+Sandbox: (Email john@getshortcut.co for access)
