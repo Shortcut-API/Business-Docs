@@ -1,9 +1,7 @@
 # Business Accounts
 
 
-### About
-
-***
+## About
 
 Your Business Account enables you to launch Pros on the Shortcut platform. You can register new Pros, manage their settings, and begin servicing clients.
 
