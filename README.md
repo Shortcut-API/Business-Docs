@@ -2,17 +2,21 @@
 
 ### About
 
-Launch your Pros on the Shortcut platform.
+***
 
-Through your Shortcut Business Account, you can register new Pros, manage their settings, and service your clients.
+Your Business Account enables you to launch your Pros on the Shortcut platform. You can register new Pros, manage their settings, and begin servicing clients.
 
 ### Sandbox Testing
+
+***
 
 Use the Sandbox apps to test Pro registration, Pro onboarding/scheduling, client booking and notifications, in a test environment where payments will not be charged. We have specific apps to use for Sandbox testing. Pros created in the Sandbox will not appear in the live  Shortcut app.
 
 Sandbox Payments: Please view our Test Cards page for fake banking information and credit cards to use in the Sandbox. Note: you will not be able to connect a real bank account or card in our Sandbox.
 
 ### Help and Support
+
+***
 
 To get in touch with Shortcut, please reach out to support@getshortcut.co, or message Staff through your Business Account.
 
