@@ -4,7 +4,7 @@
 
 ***
 
-Your Business Account enables you to launch your Pros on the Shortcut platform. You can register new Pros, manage their settings, and begin servicing clients.
+Your Business Account enables you to launch Pros on the Shortcut platform. You can register new Pros, manage their settings, and begin servicing clients.
 
 ### Sandbox Testing
 
