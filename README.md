@@ -1,5 +1,5 @@
-# Business Documentation
-Documentation for Shortcut Business Accounts. Launch your Pros on the Shortcut platform.
+# Business Setup
+Launch your Pros on the Shortcut platform.
 
 # **Premier tech for your Business**
 
