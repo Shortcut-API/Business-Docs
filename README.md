@@ -9,7 +9,7 @@ To get in touch with Shortcut, please reach out to support@getshortcut.co.
 
 ### App Overview
 
-[Business Home](#businessHome)
+[Business Home](#Business Home)
 
 [Pros App](#prosApp)
 
@@ -19,7 +19,7 @@ To get in touch with Shortcut, please reach out to support@getshortcut.co.
 
 ***
 
-#### [Business Home](#businessHome)
+#### Business Home
 Main website for your Business account. Register Pros. Set up your payment account through Stripe.
 
 Live: https://app.getshortcut.co
