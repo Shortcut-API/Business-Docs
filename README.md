@@ -1,11 +1,11 @@
 # Business Documentation
 Documentation for Shortcut Business Accounts. Launch your Pros on the Shortcut platform.
 
-# **Technology for your Business**
+# **Premier tech for your Business**
 
 Through your Shortcut Business Account, you can register new Pros, manage their settings, and service your clients.
 
-Use the Sandbox to test our system. Register new Pro accounts, 
+Use the Sandbox apps to test our system, without charging.
 
 To get in touch with Shortcut, please reach out to support@getshortcut.co.
 
