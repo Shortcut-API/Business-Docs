@@ -14,12 +14,6 @@ Use the Sandbox apps to test Pro registration, Pro onboarding/scheduling, client
 
 Sandbox Payments: Please view our Test Cards page for fake banking information and credit cards to use in the Sandbox. Note: you will not be able to connect a real bank account or card in our Sandbox.
 
-### Help and Support
-
-***
-
-To get in touch with Shortcut, please reach out to support@getshortcut.co, or message Staff through your Business Account.
-
 ### App Overview
 
 ***
@@ -46,3 +40,10 @@ Main app and website for your clients. When your Pros activate after onboarding,
 Live: https://shortcut.app.link
 
 Sandbox: (Email john@getshortcut.co for access)
+
+
+### Help and Support
+
+***
+
+To get in touch with Shortcut, please reach out to support@getshortcut.co, or message Staff through your Business Account.
