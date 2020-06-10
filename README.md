@@ -9,7 +9,7 @@ Use the Sandbox apps to test Pro registration, Pro onboarding/scheduling, client
 
 To get in touch with Shortcut, please reach out to support@getshortcut.co.
 
-### Apps Overview
+### App Overview
 
 [Business Home](#businessHome)
 
@@ -17,21 +17,29 @@ To get in touch with Shortcut, please reach out to support@getshortcut.co.
 
 [Client App](#clientApp)
 
-### Documentation
+### Apps
 
 ***
 
 #### businessHome
-Register Pros. Set up your payment account through Stripe.
+Main website for your Business account. Register Pros. Set up your payment account through Stripe.
+
 Live: https://app.getshortcut.co
+
 Sandbox: https://dev-app.getshortcut.co
 
+
 #### prosApp
-This is the main app for your staff. Once you register their accounts, they can log in, submit an application / background check, and set their services, pricing and schedule. This app enables Pros to communicate with clients and manage their bookings.
+Main app for your staff. Once you register their accounts, they can log in, submit an application / background check, and set their services, pricing and schedule. This app enables Pros to communicate with clients and manage their bookings.
+
 Live: https://pros.app.link
+
 Sandbox: (Email john@getshortcut.co for access)
 
+
 #### clientApp
-When your Pros activate after onboarding, their profiles will show in the main Shortcut app, accessible to clients across the country.
+Main app for your clients. When your Pros activate after onboarding, their profiles will show in the main Shortcut app, accessible to clients across the country.
+
 Live: https://pros.app.link
+
 Sandbox: (Email john@getshortcut.co for access)
