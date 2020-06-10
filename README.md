@@ -10,7 +10,11 @@ Your Business Account enables you to launch Pros on the Shortcut platform. You c
 
 Use the Sandbox apps to test Pro registration, Pro onboarding/scheduling, client booking and notifications, in a test environment where payments will not be charged. We have specific apps to use for Sandbox testing. Pros created in the Sandbox will not appear in the live  Shortcut app.
 
-Sandbox Payments: Please view our Test Cards page for fake banking information and credit cards to use in the Sandbox. Note: you will not be able to connect a real bank account or card in our Sandbox.
+Sandbox Payments: Below you will find test banking information and credit cards to use in the Sandbox. Note: you will not be able to connect a real bank account or card in our Sandbox. Enter our 
+
+Test Stripe bank info: 110000000 (account)	000123456789 (routing).
+
+Test credit card: 4242-4242-4242-4242 (with any expiration date and ZIP).
 
 
 ## App Overview
