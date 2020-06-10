@@ -19,7 +19,7 @@ To get in touch with Shortcut, please reach out to support@getshortcut.co.
 
 ***
 
-#### Business Home
+#### [Business Home](#businessHome)
 Main website for your Business account. Register Pros. Set up your payment account through Stripe.
 
 Live: https://app.getshortcut.co
