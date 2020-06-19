@@ -12,7 +12,7 @@ Use the Sandbox (test) apps to walk through Pro registration, Pro onboarding/sch
 
 Sandbox Payments: Below you will find test banking information and credit cards to use in the Sandbox:
 
-(Sandbox only) Bank account: `110000000` (account)	`000123456789` (routing).
+(Sandbox only) Bank account: `110000000` (routing)	`000123456789` (account).
 
 (Sandbox only) Credit card: `4242-4242-4242-4242` (Please use any expiration date and ZIP).
 
